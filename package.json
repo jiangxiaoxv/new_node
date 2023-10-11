@@ -1,0 +1,8 @@
+{
+  "name": "new_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jiangxiaoxv/new_node.git",
+  "author": "jiangxiaoxv <1043479536@qq.com>",
+  "license": "MIT"
+}
